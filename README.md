@@ -100,4 +100,4 @@ Based on Investopedia, Regulation Technology (RegTech) is “the management of r
 
 * <https://identitymindglobal.com/edna/identitymind-global-named-top-20-most-promising-risk-management-solution-provider-by-cio-review-magazine/>
 
-* 
+* <https://www2.deloitte.com/lu/en/pages/technology/articles/regtech-companies-compliance.html>
