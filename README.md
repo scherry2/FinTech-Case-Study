@@ -66,7 +66,13 @@ Based on Investopedia, Regulation Technology (RegTech) is “the management of r
 
 ## Recommendations
 
+* My advice to IdentityMind is to look into adding cybersecurity services to their list of services. As of right now, Identitmind offers fintech, fruad detection, indentity management, and payments as services. One of their top competitors, Rippleshot, offers the same services plus cybersecurity. I believe wih the masterminds behind the eDNA technology they would be able to improve the cybersecurtiy service and become more competitive in the  RegTech domain.
 
+* I think offering cybersecurity will be very benefital to IndentityMind. I believe that this will make them more of a clear choice for customers to choose from because of the widespread services they offer. They would be considered a one stop shop in the domain. Also I believe that with the eDNA technology they have the ability to improve any fraud services there might be in the FinTech world.
+
+* In my opinion, there would not be any use for additiinal technology for this service. I think the use of the eDNA technology should be substantial enough. IndetityMind can assign its client an eDNA and that would be able to enhance the cybersecurity technology that is already used in the RegTech domain.
+
+* The eDNA is appropiate for my solution because it allows IdentityMind to have their own impact on the cybersecurity service. They woud be implemented a technology that only they have access too and it will result in a better service. 
 
 
 
