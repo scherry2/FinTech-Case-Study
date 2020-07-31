@@ -1,4 +1,4 @@
-# Unit-1-Homework-Assignment-FinTech-Case-Study
+# FinTech Case Study
 
 By Steven Cherry II
 
